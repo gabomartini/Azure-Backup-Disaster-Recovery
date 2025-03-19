@@ -4,11 +4,11 @@
 </p>
 
 #### *In this tutorial, we will:*
-*- Configure Azure Backup for VM protection and recovery.*
+*•	Configure Azure Backup for VM protection and recovery.*
 
-*- Set up VM replication for disaster recovery.*
+*•	Set up VM replication for disaster recovery.*
 
-*- Monitor backups and analyze logs for management.*
+*•	Monitor backups and analyze logs for management.*
 
 #### Tasks:
  1. Configuring Azure Backup Storage with a Recovery Vault.
